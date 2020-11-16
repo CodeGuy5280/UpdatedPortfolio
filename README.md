@@ -1,1 +1,12 @@
-# UpdatedPortfolio
+To Do:
+-Create html structure for portfolio
+-Have divs with classes/ids that work with css
+-Link css to html
+-Make css bootstrap
+-link bootstrap to html
+-link bootstrap to css
+-Add proper bootstrap elements to css file
+-Create dynamic javascript w/ mobile first design
+-js must be responsive
+-js has to showcase my abilities
+-Have app links to Github, LinkedIn and Resume
