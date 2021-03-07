@@ -42,3 +42,31 @@ body {
   text-align: left;
   background-color: #fff;
 }
+
+p {
+  color: #ffffff;
+  text-align: center;
+  align-items: center;
+}
+h2 {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: underline;
+}
+h3 {
+  color: #ffffff;
+  text-align: center;
+}
+.white {
+  color: #ffffff;
+  font-weight: bolder;
+  background-color: orange;
+}
+.bold {
+  font-weight: bold;
+}
+.resume{
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: underline;
+}
